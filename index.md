@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: The titles and descriptions can be changed
+title: Dave Crowley W&M Github
+description: This is the Github page for W&M work by Dave Crowley
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
